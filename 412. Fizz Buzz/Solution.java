@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
@@ -8,7 +9,7 @@ class Solution {
     }
 
     static public List<String> fizzBuzz(int n) {
-        String[] myArray = new String[n];
+        List<String> myArray = new ArrayList<String>();
         
         for (short i = 1; i <= n; i++) {
         String myResult = "";    
@@ -22,12 +23,12 @@ class Solution {
             } 
 
             if (myResult.length() == 0) {
-                myResult = ""+i;
+                myResult = String.valueOf(i);
             }
 
-            myArray[i-1] = myResult;
+            myArray.add(myResult);
 
         }
-        return List.of(myArray);
+        return myArray;
     }
 }
