@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class FizzBuzz {
 
     public static void main(String[] args) {
         int n = 11000;
