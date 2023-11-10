@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
         "412. Fizz Buzz",
-        "2235. Add Two Integers"
+        "2236. Root Equals Sum of Children",
+        "2235. Add Two Integers",
+        "1480. Running Sum of 1d Array",
+        "1672. Richest Customer Wealth"
     ]
 }
