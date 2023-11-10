@@ -12,21 +12,21 @@ class FizzBuzz {
         List<String> myArray = new ArrayList<String>();
         
         for (short i = 1; i <= n; i++) {
-        String myResult = "";    
+        StringBuilder myResult = new StringBuilder();    
             
             if (i % 3 == 0) {
-                myResult += "Fizz";
+                myResult.append("Fizz");
             } 
 
             if (i % 5 == 0) {
-                myResult += "Buzz";
+                myResult.append("Buzz");
             } 
 
             if (myResult.length() == 0) {
-                myResult = String.valueOf(i);
+                myResult.append(i);
             }
 
-            myArray.add(myResult);
+            myArray.add(myResult.toString());
 
         }
         return myArray;
