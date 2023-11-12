@@ -1,2 +1,5 @@
 # LeetCode
-My Solutions to LeetCode problems
+Public repository containing my solutions to LeetCode problems.
+
+My LeetCode profile is:
+https://leetcode.com/dragosnistor/
