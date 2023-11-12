@@ -25,25 +25,14 @@ public class MiddleOfTheLinkedList {
     }
     
     static public ListNode middleNode(ListNode head) {
-        List<ListNode> myListOfNodes = new ArrayList<ListNode>();
+        List<ListNode> myListOfNodes = new ArrayList<>();
 
-        ListNode myCurrentNode = head;
-        while (myCurrentNode.next != null) {
-            myListOfNodes.add(myCurrentNode);
-            myCurrentNode = myCurrentNode.next;
-        }
-        myListOfNodes.add(myCurrentNode);
-
-        int myMiddle = 0;
-        int linkedListSize = myListOfNodes.size();
-
-        if ((linkedListSize & 1) == 0){
-            myMiddle = linkedListSize / 2;
-        } else {
-            myMiddle = (linkedListSize - 1) / 2;
+        while (head != null) {
+            myListOfNodes.add(head);
+            head = head.next;
         }
 
-        return myListOfNodes.get(myMiddle);
+        return myListOfNodes.get(myListOfNodes.size() / 2);
     }
 
 }
