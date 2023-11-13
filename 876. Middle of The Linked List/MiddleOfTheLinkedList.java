@@ -16,11 +16,14 @@ public class MiddleOfTheLinkedList {
     public static void main(String[] args) {
         // ListNode sixthListNode = new ListNode(6);
         // ListNode fifthListNode = new ListNode(5, sixthListNode);
-        ListNode fifthListNode = new ListNode(5);
-        ListNode fourthListNode = new ListNode(4, fifthListNode);
-        ListNode thirdListNode = new ListNode(3, fourthListNode);
+        // ListNode fifthListNode = new ListNode(5);
+        // ListNode fourthListNode = new ListNode(4, fifthListNode);
+        // ListNode thirdListNode = new ListNode(3, fourthListNode);
+        ListNode thirdListNode = new ListNode(3);
         ListNode secondListNode = new ListNode(2, thirdListNode);
+        // ListNode secondListNode = new ListNode(2);
         ListNode firstListNode = new ListNode(1, secondListNode);
+        // ListNode firstListNode = new ListNode(1);
         ListNode answer = middleNode(firstListNode);
         System.out.println(answer);
     }
