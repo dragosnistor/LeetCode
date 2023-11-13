@@ -14,8 +14,9 @@ import java.util.List;
 public class MiddleOfTheLinkedList {
    
     public static void main(String[] args) {
-        ListNode sixthListNode = new ListNode(6);
-        ListNode fifthListNode = new ListNode(5, sixthListNode);
+        // ListNode sixthListNode = new ListNode(6);
+        // ListNode fifthListNode = new ListNode(5, sixthListNode);
+        ListNode fifthListNode = new ListNode(5);
         ListNode fourthListNode = new ListNode(4, fifthListNode);
         ListNode thirdListNode = new ListNode(3, fourthListNode);
         ListNode secondListNode = new ListNode(2, thirdListNode);
@@ -23,17 +24,28 @@ public class MiddleOfTheLinkedList {
         ListNode answer = middleNode(firstListNode);
         System.out.println(answer);
     }
-    
-    static public ListNode middleNode(ListNode head) {
-        List<ListNode> myListOfNodes = new ArrayList<>();
 
-        while (head != null) {
-            myListOfNodes.add(head);
-            head = head.next;
+    static public ListNode middleNode(ListNode head) {
+        ListNode middle = head;
+
+        while (head != null && head.next != null) {
+            head = head.next.next;
+            middle = middle.next;
         }
 
-        return myListOfNodes.get(myListOfNodes.size() / 2);
+        return middle;
     }
+
+    // static public ListNode middleNode(ListNode head) {
+    //     List<ListNode> myListOfNodes = new ArrayList<>();
+
+    //     while (head != null) {
+    //         myListOfNodes.add(head);
+    //         head = head.next;
+    //     }
+
+    //     return myListOfNodes.get(myListOfNodes.size() / 2);
+    // }
 
 }
 
