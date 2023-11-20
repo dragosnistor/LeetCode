@@ -18,6 +18,10 @@ public class NumberOfGoodPairs {
 
     }
 
+    // Time complexity: O(n^2) 
+    // simplified from (n^2 + n ) / 2  ->  because the addition term in the numerator and the constand term in the denominator are both ignored 
+    // Space complexity: O(1)
+
     // static public int numIdenticalPairs(int[] nums) {
     //     int goodPairs = 0;
 
@@ -30,6 +34,9 @@ public class NumberOfGoodPairs {
     //     }
     //     return goodPairs;
     // }
+
+    // Time complexity: O(n)
+    // Space complexity: O(n)
 
     static public int numIdenticalPairs(int[] nums) {
         int goodPairs = 0;
