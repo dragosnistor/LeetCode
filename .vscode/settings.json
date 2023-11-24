@@ -5,8 +5,10 @@
         "Easy Problems/412. Fizz Buzz",
         "Easy Problems/383. Ransom Note",
         "Easy Problems/2769. Find the Maximum Achievable Number",
+        "Easy Problems/2469. Convert the Temperature",
         "Easy Problems/2236. Root Equals Sum of Children",
         "Easy Problems/2235. Add Two Integers",
+        "Easy Problems/2011. Final Value of Variable After Performing Operations",
         "Easy Problems/1929. Concatenation of Array",
         "Easy Problems/1920. Build Array from Permutation",
         "Easy Problems/1672. Richest Customer Wealth",
@@ -16,7 +18,6 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2469. Convert the Temperature",
-        "Easy Problems/2011. Final Value of Variable After Performing Operations"
+        "Easy Problems/1470. Shuffle the Array"
     ]
 }
