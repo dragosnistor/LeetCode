@@ -13,7 +13,6 @@
         "Easy Problems/1929. Concatenation of Array",
         "Easy Problems/1920. Build Array from Permutation",
         "Easy Problems/1672. Richest Customer Wealth",
-        "Easy Problems/1603. Design Parking System",
         "Easy Problems/1512. Number of Good Pairs",
         "Easy Problems/1480. Running Sum of 1d Array",
         "Easy Problems/1470. Shuffle the Array",
@@ -21,6 +20,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2798. Number of Employees Who Met the Target"
+        "Easy Problems/2798. Number of Employees Who Met the Target",
+        "Easy Problems/2942. Find Words Containing Character"
     ]
 }
