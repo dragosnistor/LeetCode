@@ -7,13 +7,7 @@ public class SmallestEvenMultiple {
     }
 
     static public int smallestEvenMultiple(int n) {
-        int ans = n;
-
-        if (n % 2 > 0) {
-            ans = n * 2;
-        }
-
-        return ans;
+        return n << (n & 1);
     }
 
 
