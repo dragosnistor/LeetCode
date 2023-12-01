@@ -18,7 +18,6 @@ public class GoalParserInterpretation {
             char c = command.charAt(i);
             if ( c == 'G') {
                 ans.append("G");
-                continue;
             } else if(c == '(') {
                 char cPlusOne = command.charAt(i+1);
                 if (cPlusOne == ')') {
