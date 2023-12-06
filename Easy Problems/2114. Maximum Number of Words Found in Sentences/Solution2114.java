@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution2114 {
 
     public static void main(String[] args) {
         String[] sentences = new String[]{"alice and bob love leetcode", "i think so too", "this is great thanks very much"};
