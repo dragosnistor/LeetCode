@@ -14,6 +14,7 @@
         "Easy Problems/2413. Smallest Even Multiple",
         "Easy Problems/2236. Root Equals Sum of Children",
         "Easy Problems/2235. Add Two Integers",
+        "Easy Problems/2160. Minimum Sum of Four Digit Number After Splitting Digits",
         "Easy Problems/2114. Maximum Number of Words Found in Sentences",
         "Easy Problems/2011. Final Value of Variable After Performing Operations",
         "Easy Problems/1929. Concatenation of Array",
@@ -31,6 +32,6 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2160. Minimum Sum of Four Digit Number After Splitting Digits"
+        "Easy Problems/2859. Sum of Values at Indices With K Set Bits"
     ]
 }
