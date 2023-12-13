@@ -29,6 +29,7 @@
         "Easy Problems/1480. Running Sum of 1d Array",
         "Easy Problems/1470. Shuffle the Array",
         "Easy Problems/1431. Kids With the Greatest Number of Candies",
+        "Easy Problems/1389. Create Target Array in the Given Order",
         "Easy Problems/1365. How Many Numbers Are Smaller Than the Current Number",
         "Easy Problems/1342. Number of Steps to Reduce a Number to Zero",
         "Easy Problems/1281. Subtract the Product and Sum of Digits of an Integer",
@@ -36,6 +37,6 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/1389. Create Target Array in the Given Order"
+        "Easy Problems/1221. Split a String in Balanced Strings"
     ]
 }
