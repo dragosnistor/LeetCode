@@ -18,10 +18,10 @@ public class Solution1688 {
 
         while (n > 1) {
 
-        if ((n & 1) == 1) {
-            n += 1;
-            ans -= 1;
-        }
+            if ((n & 1) == 1) {
+                n += 1;
+                ans -= 1;
+            }
 
             n >>= 1;
             ans += n ;
