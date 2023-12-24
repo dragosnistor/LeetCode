@@ -5,6 +5,7 @@
         "Easy Problems/771. Jewels and Stones",
         "Easy Problems/412. Fizz Buzz",
         "Easy Problems/383. Ransom Note",
+        "Easy Problems/2974. Minimum Number Game",
         "Easy Problems/2942. Find Words Containing Character",
         "Easy Problems/2894. Divisible and Non-divisible Sums Difference",
         "Easy Problems/2859. Sum of Values at Indices With K Set Bits",
@@ -14,6 +15,7 @@
         "Easy Problems/2652. Sum Multiples",
         "Easy Problems/2574. Left and Right Sum Differences",
         "Easy Problems/2535. Difference Between Element Sum and Digit Sum of an Array",
+        "Easy Problems/2520. Count the Digits That Divide a Number",
         "Easy Problems/2469. Convert the Temperature",
         "Easy Problems/2413. Smallest Even Multiple",
         "Easy Problems/2325. Decode the Message",
@@ -47,7 +49,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2520. Count the Digits That Divide a Number"
+        "Easy Problems/760. Find Anagram Mappings"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
