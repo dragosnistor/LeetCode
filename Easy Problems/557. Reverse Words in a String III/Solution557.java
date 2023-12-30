@@ -49,7 +49,7 @@ public class Solution557 {
     }
 
 
-    public String reverseWords(String s) {
+    static public String reverseWords(String s) {
         char[] c = s.toCharArray();
         int i = 0, j = 0;
         for (;j<c.length;j++) {
@@ -62,7 +62,7 @@ public class Solution557 {
         return new String(c);
     }
     
-    private void reverseWord(char[] c, int i, int j) {
+    static private void reverseWord(char[] c, int i, int j) {
         while (i < j) {
             char temp = c[i];
             c[i++] = c[j];
