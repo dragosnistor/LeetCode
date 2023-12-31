@@ -5,6 +5,7 @@
         "Easy Problems/771. Jewels and Stones",
         "Easy Problems/760. Find Anagram Mappings",
         "Easy Problems/709. To Lower Case",
+        "Easy Problems/557. Reverse Words in a String III",
         "Easy Problems/412. Fizz Buzz",
         "Easy Problems/383. Ransom Note",
         "Easy Problems/2974. Minimum Number Game",
@@ -54,7 +55,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/557. Reverse Words in a String III"
+        "Easy Problems/2828. Check if a String Is an Acronym of Words"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
