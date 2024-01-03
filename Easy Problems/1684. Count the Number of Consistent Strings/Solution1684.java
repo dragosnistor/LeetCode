@@ -10,7 +10,7 @@ public class Solution1684 {
         System.out.println(ans);
     }
 
-    static public int countConsistentStrings(String allowed, String[] words) {
+    static public int countConsistentStrings2(String allowed, String[] words) {
         int ans = 0;
 
         outer: for (int j = 0; j < words.length; j++) {
@@ -30,4 +30,32 @@ public class Solution1684 {
         }
         return ans;
     }
+
+
+    static public int countConsistentStrings(String allowed, String[] words) {
+        Set<Character> mySet = new HashSet<>();
+        int ans = 0;
+
+        for (int i = 0; i < allowed.length(); i++) {
+            mySet.add(allowed.charAt(i));
+        }
+
+        outer: for (int j = 0; j < words.length; j++) {
+            String word = words[j];
+
+        inner:    for (int k = 0; k < word.length(); k++) {
+                char c = word.charAt(k);
+                
+                if (!mySet.contains(c)) {
+                    break inner;
+                }
+
+                if (k == word.length() - 1) {
+                    ans++;
+                }
+            }
+        }
+        return ans;
+    }
+
 }
