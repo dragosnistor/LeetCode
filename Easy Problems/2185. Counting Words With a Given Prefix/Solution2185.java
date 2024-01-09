@@ -9,15 +9,8 @@ public class Solution2185 {
 
     static public int prefixCount(String[] words, String pref) {
         int ans = 0;
-        int len = pref.length();
 
         for (int i = 0; i < words.length; i++) {
-            int lenWord = words[i].length();
-
-            if (len > lenWord) { 
-                continue;
-            }
-
             if (words[i].startsWith(pref)) {
                 ans++;
             }
