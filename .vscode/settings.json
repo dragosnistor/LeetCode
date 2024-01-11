@@ -20,6 +20,7 @@
         "Easy Problems/2769. Find the Maximum Achievable Number",
         "Easy Problems/2744. Find Maximum Number of String Pairs",
         "Easy Problems/2652. Sum Multiples",
+        "Easy Problems/2586. Count the Number of Vowel Strings in Range",
         "Easy Problems/2574. Left and Right Sum Differences",
         "Easy Problems/2535. Difference Between Element Sum and Digit Sum of an Array",
         "Easy Problems/2520. Count the Digits That Divide a Number",
@@ -65,7 +66,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2586. Count the Number of Vowel Strings in Range"
+        "Easy Problems/2000. Reverse Prefix of Word"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
