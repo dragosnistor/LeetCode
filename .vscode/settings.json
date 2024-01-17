@@ -34,6 +34,7 @@
         "Easy Problems/2194. Cells in a Range on an Excel Sheet",
         "Easy Problems/2185. Counting Words With a Given Prefix",
         "Easy Problems/2160. Minimum Sum of Four Digit Number After Splitting Digits",
+        "Easy Problems/2119. A Number After a Double Reversal",
         "Easy Problems/2114. Maximum Number of Words Found in Sentences",
         "Easy Problems/2108. Find First Palindromic String in the Array",
         "Easy Problems/2011. Final Value of Variable After Performing Operations",
@@ -71,7 +72,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2119. A Number After a Double Reversal"
+        "Easy Problems/1704. Determine if String Halves Are Alike"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
