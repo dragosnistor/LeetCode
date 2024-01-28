@@ -11,6 +11,7 @@
         "Easy Problems/412. Fizz Buzz",
         "Easy Problems/383. Ransom Note",
         "Easy Problems/344. Reverse String",
+        "Easy Problems/3005. Count Elements With Maximum Frequency",
         "Easy Problems/2974. Minimum Number Game",
         "Easy Problems/2942. Find Words Containing Character",
         "Easy Problems/2894. Divisible and Non-divisible Sums Difference",
@@ -82,7 +83,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/3005. Count Elements With Maximum Frequency"
+        "Easy Problems/2788. Split Strings by Separator"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
