@@ -20,6 +20,7 @@
         "Easy Problems/2824. Count Pairs Whose Sum is Less than Target",
         "Easy Problems/2810. Faulty Keyboard",
         "Easy Problems/2798. Number of Employees Who Met the Target",
+        "Easy Problems/2788. Split Strings by Separator",
         "Easy Problems/2769. Find the Maximum Achievable Number",
         "Easy Problems/2744. Find Maximum Number of String Pairs",
         "Easy Problems/2710. Remove Trailing Zeros From a String",
@@ -83,7 +84,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2788. Split Strings by Separator"
+        "Easy Problems/2278. Percentage of Letter in String"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
