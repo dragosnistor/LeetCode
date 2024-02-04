@@ -9,6 +9,7 @@
         "Easy Problems/709. To Lower Case",
         "Easy Problems/657. Robot Return to Origin",
         "Easy Problems/557. Reverse Words in a String III",
+        "Easy Problems/461. Hamming Distance",
         "Easy Problems/412. Fizz Buzz",
         "Easy Problems/383. Ransom Note",
         "Easy Problems/344. Reverse String",
@@ -89,7 +90,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/461. Hamming Distance"
+        "Easy Problems/3028. Ant on the Boundary"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
