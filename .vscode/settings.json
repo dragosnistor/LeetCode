@@ -14,6 +14,7 @@
         "Easy Problems/383. Ransom Note",
         "Easy Problems/344. Reverse String",
         "Easy Problems/3028. Ant on the Boundary",
+        "Easy Problems/3019. Number of Changing Keys",
         "Easy Problems/3005. Count Elements With Maximum Frequency",
         "Easy Problems/2974. Minimum Number Game",
         "Easy Problems/2951. Find the Peaks",
@@ -95,7 +96,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/3019. Number of Changing Keys"
+        "Easy Problems/1725. Number Of Rectangles That Can Form The Largest Square"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
