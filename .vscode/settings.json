@@ -72,6 +72,7 @@
         "Easy Problems/1732. Find the Highest Altitude",
         "Easy Problems/1725. Number Of Rectangles That Can Form The Largest Square",
         "Easy Problems/1720. Decode XORed Array",
+        "Easy Problems/1716. Calculate Money in Leetcode Bank",
         "Easy Problems/1704. Determine if String Halves Are Alike",
         "Easy Problems/1688. Count of Matches in Tournament",
         "Easy Problems/1684. Count the Number of Consistent Strings",
@@ -97,7 +98,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/1716. Calculate Money in Leetcode Bank"
+        "Easy Problems/338. Counting Bits"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
