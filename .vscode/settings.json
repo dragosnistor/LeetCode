@@ -68,6 +68,7 @@
         "Easy Problems/1920. Build Array from Permutation",
         "Easy Problems/1859. Sorting the Sentence",
         "Easy Problems/1844. Replace All Digits with Characters",
+        "Easy Problems/1837. Sum of Digits in Base K",
         "Easy Problems/1827. Minimum Operations to Make the Array Increasing",
         "Easy Problems/1816. Truncate Sentence",
         "Easy Problems/1812. Determine Color of a Chessboard Square",
@@ -98,11 +99,12 @@
         "Easy Problems/1309. Decrypt String from Alphabet to Integer Mapping",
         "Easy Problems/1281. Subtract the Product and Sum of Digits of an Integer",
         "Easy Problems/1221. Split a String in Balanced Strings",
+        "Easy Problems/1207. Unique Number of Occurrences",
         "Easy Problems/1165. Single-Row Keyboard",
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/1207. Unique Number of Occurrences"
+        "Easy Problems/2176. Count Equal and Divisible Pairs in an Array"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
