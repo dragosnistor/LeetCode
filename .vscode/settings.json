@@ -41,6 +41,7 @@
         "Easy Problems/2553. Separate the Digits in an Array",
         "Easy Problems/2535. Difference Between Element Sum and Digit Sum of an Array",
         "Easy Problems/2520. Count the Digits That Divide a Number",
+        "Easy Problems/2485. Find the Pivot Integer",
         "Easy Problems/2469. Convert the Temperature",
         "Easy Problems/2413. Smallest Even Multiple",
         "Easy Problems/2367. Number of Arithmetic Triplets",
@@ -105,7 +106,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2485. Find the Pivot Integer"
+        "Easy Problems/2960. Count Tested Devices After Test Operations"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
