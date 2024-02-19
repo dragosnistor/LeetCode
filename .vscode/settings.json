@@ -18,6 +18,7 @@
         "Easy Problems/3019. Number of Changing Keys",
         "Easy Problems/3005. Count Elements With Maximum Frequency",
         "Easy Problems/2974. Minimum Number Game",
+        "Easy Problems/2960. Count Tested Devices After Test Operations",
         "Easy Problems/2951. Find the Peaks",
         "Easy Problems/2942. Find Words Containing Character",
         "Easy Problems/2894. Divisible and Non-divisible Sums Difference",
@@ -106,7 +107,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2960. Count Tested Devices After Test Operations"
+        "Easy Problems/3032. Count Numbers With Unique Digits II"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
