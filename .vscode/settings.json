@@ -14,6 +14,7 @@
         "Easy Problems/383. Ransom Note",
         "Easy Problems/344. Reverse String",
         "Easy Problems/338. Counting Bits",
+        "Easy Problems/3032. Count Numbers With Unique Digits II",
         "Easy Problems/3028. Ant on the Boundary",
         "Easy Problems/3019. Number of Changing Keys",
         "Easy Problems/3005. Count Elements With Maximum Frequency",
@@ -103,11 +104,12 @@
         "Easy Problems/1281. Subtract the Product and Sum of Digits of an Integer",
         "Easy Problems/1221. Split a String in Balanced Strings",
         "Easy Problems/1207. Unique Number of Occurrences",
+        "Easy Problems/1180. Count Substrings with Only One Distinct Letter",
         "Easy Problems/1165. Single-Row Keyboard",
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/3032. Count Numbers With Unique Digits II"
+        "Easy Problems/1436. Destination City"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
