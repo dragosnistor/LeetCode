@@ -35,6 +35,7 @@
         "Easy Problems/2744. Find Maximum Number of String Pairs",
         "Easy Problems/2716. Minimize String Length",
         "Easy Problems/2710. Remove Trailing Zeros From a String",
+        "Easy Problems/2697. Lexicographically Smallest Palindrome",
         "Easy Problems/2678. Number of Senior Citizens",
         "Easy Problems/2652. Sum Multiples",
         "Easy Problems/2651. Calculate Delayed Arrival Time",
@@ -55,6 +56,7 @@
         "Easy Problems/2255. Count Prefixes of a Given String",
         "Easy Problems/2236. Root Equals Sum of Children",
         "Easy Problems/2235. Add Two Integers",
+        "Easy Problems/2220. Minimum Bit Flips to Convert Number",
         "Easy Problems/2194. Cells in a Range on an Excel Sheet",
         "Easy Problems/2185. Counting Words With a Given Prefix",
         "Easy Problems/2176. Count Equal and Divisible Pairs in an Array",
@@ -110,7 +112,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2697. Lexicographically Smallest Palindrome"
+        "Easy Problems/1266. Minimum Time Visiting All Points"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
