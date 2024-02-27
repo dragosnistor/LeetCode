@@ -90,6 +90,7 @@
         "Easy Problems/1678. Goal Parser Interpretation",
         "Easy Problems/1672. Richest Customer Wealth",
         "Easy Problems/1662. Check If Two String Arrays are Equivalent",
+        "Easy Problems/1614. Maximum Nesting Depth of the Parentheses",
         "Easy Problems/1528. Shuffle String",
         "Easy Problems/1512. Number of Good Pairs",
         "Easy Problems/1486. XOR Operation in an Array",
@@ -110,12 +111,11 @@
         "Easy Problems/1266. Minimum Time Visiting All Points",
         "Easy Problems/1221. Split a String in Balanced Strings",
         "Easy Problems/1207. Unique Number of Occurrences",
-        "Easy Problems/1180. Count Substrings with Only One Distinct Letter",
         "Easy Problems/1165. Single-Row Keyboard",
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/1614. Maximum Nesting Depth of the Parentheses"
+        "Easy Problems/1748. Sum of Unique Elements"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
