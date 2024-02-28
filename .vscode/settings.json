@@ -80,6 +80,7 @@
         "Easy Problems/1812. Determine Color of a Chessboard Square",
         "Easy Problems/1773. Count Items Matching a Rule",
         "Easy Problems/1768. Merge Strings Alternately",
+        "Easy Problems/1748. Sum of Unique Elements",
         "Easy Problems/1732. Find the Highest Altitude",
         "Easy Problems/1725. Number Of Rectangles That Can Form The Largest Square",
         "Easy Problems/1720. Decode XORed Array",
@@ -115,7 +116,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/1748. Sum of Unique Elements"
+        "Easy Problems/1941. Check if All Characters Have Equal Number of Occurrences"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
