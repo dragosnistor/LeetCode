@@ -73,6 +73,7 @@
         "Easy Problems/1935. Maximum Number of Words You Can Type",
         "Easy Problems/1929. Concatenation of Array",
         "Easy Problems/1920. Build Array from Permutation",
+        "Easy Problems/1880. Check if Word Equals Summation of Two Words",
         "Easy Problems/1859. Sorting the Sentence",
         "Easy Problems/1844. Replace All Digits with Characters",
         "Easy Problems/1837. Sum of Digits in Base K",
@@ -117,7 +118,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/1880. Check if Word Equals Summation of Two Words"
+        "Easy Problems/2206. Divide Array Into Equal Pairs"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
