@@ -57,6 +57,7 @@
         "Easy Problems/2236. Root Equals Sum of Children",
         "Easy Problems/2235. Add Two Integers",
         "Easy Problems/2220. Minimum Bit Flips to Convert Number",
+        "Easy Problems/2206. Divide Array Into Equal Pairs",
         "Easy Problems/2194. Cells in a Range on an Excel Sheet",
         "Easy Problems/2185. Counting Words With a Given Prefix",
         "Easy Problems/2176. Count Equal and Divisible Pairs in an Array",
@@ -118,7 +119,7 @@
         "Easy Problems/1119. Remove Vowels from a String",
         "Easy Problems/1108. Defanging an IP Address",
         "Easy Problems/1. Two Sum",
-        "Easy Problems/2206. Divide Array Into Equal Pairs"
+        "Easy Problems/1295. Find Numbers with Even Number of Digits"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
